@@ -55,7 +55,7 @@ Feriados e dias sem aula observados no sistema:
 - Terça: 13/10.
 - Sexta: 20/11 (Consciência Negra).
 
-Festival Arena: 23/11/2026 (segunda).
+Festival Arena: 23/11/2026 (segunda). As aulas do dia acontecem normalmente (confirmado pelo Fhellipe em 20/11). Só o 5º C usa a aula para a exposição.
 
 ## Sistema: Portal do Professor (TOTVS RM)
 
