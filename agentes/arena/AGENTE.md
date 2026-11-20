@@ -125,6 +125,12 @@ Cada grupo cria, com tema livre, um jogo de xadrez em maquete: as peças são pe
 
 No Arena não houve torneio interno em 2026.
 
+## Relatórios de xadrez do 1º ano
+
+Tarefa recorrente: quando o Fhellipe pedir "fazer os relatórios" (bimestre, semestre ou fechamento), siga
+`agentes/arena/relatorios.md` à risca e gere o Word com `agentes/arena/ferramentas/relatorios_docx.py`,
+que já aplica o padrão visual e faz a conferência mecânica (lista oficial, travessões, repetições).
+
 ## Regras de escrita (sempre)
 
 - O texto precisa soar humano. Diretor, coordenação, pais e alunos leem.
@@ -138,4 +144,7 @@ No Arena não houve torneio interno em 2026.
 2. Se aparecerem novas datas no sistema (reposição, aula extra), lançar o conteúdo coerente com a série.
 3. Ainda não trabalhado: o planejamento e os lançamentos das turmas Integral, Iniciação Infantil e Fund 2 do Arena. Pergunte ao Fhellipe se e onde elas são lançadas.
 4. Planejamento de 2027, quando chegar a hora. Use a progressão de 2026 como base, para que a série seguinte continue de onde a anterior parou.
-5. O arquivo Arena_Xadrez_2semestre_2026.docx ainda não está neste repositório. Se o Fhellipe enviar, guarde em `agentes/arena/arquivos/`.
+5. Relatórios do 1º ano: método registrado em 20/11. O próximo pedido provável é o do 4º bimestre
+   (fechamento de ano). Vai precisar da lista oficial das três turmas, das anotações de aula e dos
+   relatórios do 3º bimestre, que ainda não estão no repositório.
+6. O arquivo Arena_Xadrez_2semestre_2026.docx ainda não está neste repositório. Se o Fhellipe enviar, guarde em `agentes/arena/arquivos/`.
